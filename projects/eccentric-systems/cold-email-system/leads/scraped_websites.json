@@ -1,0 +1,131 @@
+{
+  "https://revenueboost.io": {
+    "url": "https://revenueboost.io",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='revenueboost.io', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f21408f4670>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+  },
+  "https://creativepulse.co": {
+    "url": "https://creativepulse.co",
+    "content": "Events for Creatives & Freelancers in Vancouver | Creative Pulse Casual events for commercial creatives in Vancouver Register For Our Upcoming Event About Creative Pulse Commercial creatives deserve to have passionate, sustainable careers and businesses that they\u2019re proud of. Since 2014, our volunteer-driven team has helped move the creative industry forward by connecting like-minded creatives, sharing inspiration, and sparking new collaborations. We produce unpretentious events on topics you can apply to your work. Past attendees include professionals from agencies of all sizes (DDB, Invoke, 123w, etc) and many talented freelancers. Join us for beer, pizza and conversation with talented creatives. Our focus Creative Pulse helps like-minded creatives connect, get inspired and find new collaborators. Connect Connect with like-minded creatives Inspire Inspire one another Collaborate Spark new collaborations 2 years ago 2 years ago 2 years ago 2 years ago 2 years ago 2 years ago",
+    "title": "Events for Creatives &amp; Freelancers in Vancouver | Creative Pulse",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://growthengine.co": {
+    "url": "https://growthengine.co",
+    "content": "Home | WeDu top of page Supercharge your local teams with global talent GrowthEngine staff augmentation services offer an effective and powerful way to manage your products and help you achieve your goals. Read here why we believe it's the most efficient way to scale out your teams. Our CEO is a tech industry veteran who hand-crafted this model via years of trial and error. Set up a quick 30-minute call with him to find more. Talk to our CEO Why Us We are a group of weathered technologists and product specialists who are experienced with building teams from scratch, augmenting existing teams and helping organizations to scale out their products and services. We specialize in finding the right candidate for you. This means working with you to find the right timezone, core working hours, technology set and price point. Our ability to work globally allows us to have flexibility around timezone, skillset and price to get the right mix for our clients. We hire software engineers, product designers, data engineers, front-end engineers, IT specialists, and technology leaders. We have the ability to find the right background regardless of specific technology, just tell us your needs Our Servies Our Services Staff Augmenation Staff Augmentation is a core service that we provide. We pride ourselves in finding the right talent for your specific needs. We are well versed in both hemispheres having a deep netwrok in Latin America and Eastern Eurpoe. Fractional CTO Being seasoned leaders ourselves, we have access to the extensive pool of senior tech talent and can bring in consulting CTOs to help you get your product off the ground, help with the tech strategy or re-evaluate your existing stack. 0 to 1 We have engaged with several clients in building the initial engineering pod for the purposes of building MVPs and v1 of the product. We can build the team around the team lead located locally or we can also find the lead in the global pool. Local Placement We can help with local placement of the key talent such as hands on team leads or staff software engineers. We can also plug into our extensive network of senior talent to help with senior level search. Case Studies Case Studies Building From Scratch We collaborated with the startup's CEO to assemble a core team, including a Tech Lead and developers, to develop and launch the initial and subsequent versions of the B2B2C note-taking app. Read more Diversifying a Global Team We helped CTO of the global ed tech B2C platform to scale out his 100 people team to 150 people on the very aggressive timeline. No quality was compromised. We have staffed self sufficients pods (Engineerins, DevOps, Produdt Designers) that started to develop a new product line for the business. Read More Scaling Out an Org We have enhanced the teams of the B2B e-commerce company in both Latin America and Eastern Europe that allowed them to move faster in a highly competitive vertical and allowed them to stay ahead of the pack. We were happy to see them acquired and being retained by the mother company. Read more Maximize your team potential with our staff augmentation services. Contact us today to learn more. Contact Us Contact bottom of page",
+    "title": "Home | WeDu",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://clearviewconsulting.com": {
+    "url": "https://clearviewconsulting.com",
+    "content": "K-12 Education Consulting Firms | ClearView Consulting Company Menu For schools to reach optimal performance in the face of overwhelming challenges and cultural change, it\u2019s crucial for school districts to create the systems needed to attract, assess, and develop top leadership talent. Since 2010, ClearView Consulting has worked with districts and state education agencies across the U.S., both urban and rural, to attract, identify, and assess effective leadership talent for sustained school success. In conjunction with our Partners , and on a case-by-case basis, we work with states and school districts in the following ways: Leadership Development We design, develop and deliver professional development aimed at increasing capabilities of current and future leaders. Leadership Competency Assessments We train district and school leadership teams to identify potential leaders using the rigorous BEI process. District Readiness Assessments We determine, through a designed interview process, if a district\u2019s top leadership is ready to support a school turnaround program. Let\u2019s discuss how we can help your school district: Call 575-642-8820 Call 786-405-6211 info@clearviewconsulting.com Receive education and leadership development insights from the CCC team. Delivered to your inbox once a month.",
+    "title": "K-12 Education Consulting Firms | ClearView Consulting Company",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://sparkdigital.io": {
+    "url": "https://sparkdigital.io",
+    "content": "",
+    "success": false,
+    "error": "403 Client Error: Forbidden for url: https://domains.atom.com/lpd/name/sparkdigital.io"
+  },
+  "https://peakrecruitment.co": {
+    "url": "https://peakrecruitment.co",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='peakrecruitment.co', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f21408f4700>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+  },
+  "https://datadriven.agency": {
+    "url": "https://datadriven.agency",
+    "content": "",
+    "title": "",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://contentcraft.io": {
+    "url": "https://contentcraft.io",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='contentcraft.io', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError(\"hostname 'contentcraft.io' doesn't match either of '*.one.com', 'one.com'\")))"
+  },
+  "https://scaleupadvisors.com": {
+    "url": "https://scaleupadvisors.com",
+    "content": "",
+    "title": "",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://brandstory.co": {
+    "url": "https://brandstory.co",
+    "content": "Brand Story \u2013 Brand Management Company Enter your keyword Search Brand Story We are now Brand Story Different Look, Different Name... but Same Dream! Read More... We help you accelerate your SUCCESS Read More... Empowering companies to transform into leading BRANDS Read More... Brand Story is a complete brand management and advertising agency, creating the most innovative and unique brand identities through brand strategy, design and communication solutions. Our unique approach and in-depth insight always leave an emotional impact with the target audience. We create brands that propel businesses forward to show sustainable growth and add fresh identity giving competitive advantage. OUR SERVICES Value is a product of trust Branding in broad spectrum stands for a product or company\u2019s true identity. An effective brand strategy generates a high level of brand awareness and embrace a performance that is well -desired. We work with clients during entire lifespan of the brand \u2013 from concept and defining business goals to market research and identification and finally nurturing brands by periodic monitoring. When you play Hit Slot Endorphina can help to run colorful free slot games with any available number of lines. BRAND ARCHITECTURE RESEARCH & ANALYSIS BRAND CREATION BRAND ENGAGEMENT BRAND EVALUATION BRAND REJUVENATION / REBRANDING REPUTATION MANAGEMENT INNOVATION IDENTITY & DESIGN INTERACTIVE & MEDIA DESIGN PACKAGING ONLINE PRESENCE OUR WORK Enjoy our portfolio Work with passion, right thoughts and right efforts will inevitably bring about right results. Our work personifies our vision. We bring outstanding thinking, marketing depth and creative expression to create successful brands. Our effective brand management manifest into fruitful brand identity. Bajaj Steel Industries Limited Industry Sun Enviro Industry Institute of Management Technology Education Treat Ice Cream Food Pace IIT Education Panino Food MAIDC Noga Food Breads N Beyond General Lifestyle General Waghmare Food General Urban Hermitage Tourism OUR CLIENTS Who are our customers? Most imperative resource of any organisation is its clients. Our dynamics of work gives our clients full customer satisfaction and loyalty that evolves over time. We have been creating brands using fresh strategies and innovative designs that help our clients become icons in their industries with products that truly stand out from the competitors. MANY PEOPLES LOVE OUR WORK Take the time to see what people say about this. We contacted Brand Story to give a brand new look for our NOGA product packaging. Their competitor brand research really helped us to give a competitive edge in the market. Director NOGA, MAIDC Our work experience with Brand Story was amazing. Their time commitments were fulfilled very promptly. Manager, Axis Bank We have been associated with Brand Story since our inception. We are very happy with their banding strategy which helped our brand grow to new heights. Amol Chaknalwar, Treat Ice Cream Canadian best payout online casino Evden eve ta\u015f\u0131mac\u0131l\u0131k Nakliyat Evden eve \u015eehirler aras\u0131 nakliyat Evden eve nakliyat Free Porn xbporn Quick Connect Please fill our quick connect form and one of our friendly team members will contact you back. [recaptcha size:compact] CONTACT US",
+    "title": "Brand Story &#8211; Brand Management Company",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://leadgenexperts.io": {
+    "url": "https://leadgenexperts.io",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='leadgenexperts.io', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f21408f5870>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+  },
+  "https://brightpathdigital.com": {
+    "url": "https://brightpathdigital.com",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='brightpathdigital.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f21408f4460>, 'Connection to brightpathdigital.com timed out. (connect timeout=15)'))"
+  },
+  "https://techbridge.consulting": {
+    "url": "https://techbridge.consulting",
+    "content": "TechBridge Consulting | LinkedIn Skip to main content TechBridge Consulting IT Services and IT Consulting Technology Consulting Follow View 1 employee Report this company About us Bridging Business needs through Technology. Website http://www.techbridge.consulting External link for TechBridge Consulting Industry IT Services and IT Consulting Company size 1 employee Headquarters Global - Remote Type Privately Held Specialties IT Infrastructure & Operations, Cloud Infrastructure, FinTech, iGaming, eSports, Web3, and Blockchain Locations Primary Global - Remote, MT Get directions Employees at TechBridge Consulting Carl Cauchi See all employees Updates TechBridge Consulting 8 followers 10mo Report this post Carl Cauchi 10mo \ud83d\udea8 Big shift coming to Ubuntu: starting with 25.10, Canonical is replacing core GNU utilities (ls, cp, rm...) with Rust-based equivalents.\nWhy it matters:\n \ud83d\udd12 Rust brings memory safety & eliminates common C vulnerabilities\n \u26a1\ufe0f Major performance gains (e.g. sort is up to 6x faster)\n \ud83d\udcdc Licensing shift from GNU GPL to MIT\n \ud83d\udee0\ufe0f New tool oxidizr lets users test changes safely\nThis isn't just technical\u2014it's philosophical. Are we witnessing the first step toward a post-GNU Linux?\n\ud83d\udcd6 Read more: https://lnkd.in/dSa6SMzN #Ubuntu #RustLang #DevOps #SRE #PlatformEngineering #Linux #OpenSource #Security Like Comment Share TechBridge Consulting 8 followers 10mo Report this post Carl Cauchi 10mo Heads up SREs, DevOps, and Platform Engineers \ud83d\udc77\u2640\ufe0f\ud83d\udc68\ud83d\udcbb\nKubernetes v1.33 is around the corner, and it's packing some significant changes:\n \u2705 Native sidecar support\n \u26a0\ufe0f PodSecurity changes\n \ud83d\udce6 Deprecations you\u2019ll want to plan for\nNow\u2019s a good time to prep your clusters and automation workflows.\n\ud83d\udd17 Full details here: https://lnkd.in/dUAkh-_3 #Kubernetes #SRE #DevOps #PlatformEngineering #K8s #CloudNative #aws #azure #gcp #eks #aks #gke Like Comment Share TechBridge Consulting 8 followers 10mo Report this post Carl Cauchi 10mo \ud83d\udd27 Exciting Update: Amazon Corretto 24 is Here!\n\nAmazon has just announced the release of Amazon Corretto 24, bringing new performance enhancements and improved security features to Java developers worldwide. Whether you're scaling cloud-native applications or optimizing critical systems, Corretto 24 ensures stability and efficiency for your JVM needs.\n\n\ud83d\udd17 Read More: https://lnkd.in/dFRSty4d #Java #AmazonCorretto #AWS #SoftwareDevelopment #CloudComputing #JavaCommunity Like Comment Share TechBridge Consulting 8 followers 10mo Report this post Carl Cauchi 10mo \ud83d\ude80 Big changes ahead for the Kubernetes ingress-nginx project!\nThe maintainers just announced that ingress-nginx will move to maintenance mode, with InGate set to be the future! \ud83d\udee0\ufe0f\n\ud83d\udc49 What\u2019s happening?\nNo new features planned for ingress-nginx (only patches and CVEs)\n1.13 will likely be the last minor release\nMigration guidance to InGate is on the roadmap\nIf you\u2019re using ingress-nginx, it\u2019s time to start planning!\n\ud83d\udcc4 Full details here: https://lnkd.in/dheVv-jD #Kubernetes #IngressNginx #GatewayAPI #DevOps #OpenSource #aws #azure #gcp #cloud #k8s #eks #aks #gke #rancher #ingress #nginx #ingate Like Comment Share TechBridge Consulting 8 followers 11mo Report this post Carl Cauchi 11mo \ud83d\ude80 Exciting News from Amazon Web Services! \ud83d\ude80\n\nAmazon ECS has just rolled out support for 8 new service-specific IAM condition keys, enhancing Identity and Access Management capabilities. These keys empower customers to craft robust IAM policies and Service Control Policies (SCPs) to uphold organizational guidelines effectively within ECS.\n\nLearn more about this update here: [Amazon ECS Additional IAM Condition Keys]( https://lnkd.in/dH6Am-Vk ) \n\nStay ahead with the latest advancements in cloud services! \ud83d\udca1 #AWS #IAM #AmazonECS #CloudComputing #devops #sre #platformengineer Like Comment Share TechBridge Consulting 8 followers 11mo Report this post Carl Cauchi 11mo EKS has recently introduced default encryption for all Kubernetes API data, ensuring security without exceptions. Even if you haven't chosen a Customer Master Key (CMK), EKS automatically encrypts your data using a KMS key managed by the platform. This feature is designed for robust defense-in-depth, offering high availability and top-notch performance at no additional expense. #eks #kms #aws #kubernetes #k8s #devops #sre #platformengineer #cmk Like Comment Share TechBridge Consulting 8 followers 11mo Report this post Carl Cauchi 11mo Infrastructure as Code (IaC) tools like Terraform have faced criticism for storing sensitive information in state files, posing a security risk. Terraform has introduced a notable enhancement to address this concern: the introduction of \"write-only\" attributes.\n\nWith \"write-only\" attributes, sensitive values are utilized during runtime but are not persisted in the Terraform state, offering a solution for safeguarding data like database passwords. This feature, an internal mechanism in Terraform, requires integration by Terraform providers, with AWS being one such provider that has implemented it in certain scenarios. The \"write-only\" attribute complements the existing \"ephemeral\" type introduced in Terraform 1.10, offering enhanced security measures.\n\nBharathKumar D exemplifies the impact of the new \"write-only\" attribute support in Terraform through a demonstration illustrating the handling of passwords before and after its implementation. For further insights, BharathKumar D's detailed example can be found here: #terraform #tf #aws #rds #secrets #devops #cloud #sre #platformengineer #iac Like Comment Share TechBridge Consulting 8 followers 11mo Report this post Carl Cauchi 11mo Bottlerocket, the Linux-based OS designed for containers, now backs NVIDIA's Multi-Instance GPU (MIG) feature. This empowers users to divide NVIDIA GPUs into various GPU instances on Kubernetes nodes. Such functionality enables administrators to optimize GPU resource usage by concurrently running multiple workloads on a single GPU, ensuring distinct hardware-level isolation between each workload. #aws #k8s #kubernetes #eks #gpu #bottlerocket #devops #sre #platformengineer Like Comment Share Join now to see what you are missing Find people you know at TechBridge Consulting Browse recommended jobs for you View all updates, news, and articles Join now Similar pages TechBridge Academy and Consulting, LLC IT Services and IT Consulting TechBridge Consultancy Services IT Services and IT Consulting Gurgaon, Haryana Keyrock Financial Services Brussels, Brussels Region BluePeak Digital Lock Data Infrastructure and Analytics TechBridge IT Services and IT Consulting HireEasy LLC Staffing and Recruiting Inclusable Pty Ltd Technology, Information and Internet Newcastle, New South Wales Headera Ltd Information Technology & Services Tring, Hertfordshire Z Enviro Industries Pvt. Ltd. Renewables & Environment Hyderabad, Telangana Rightwork Software Development Show more similar pages Show fewer similar pages Agree & Join LinkedIn By clicking Continue to join or sign in, you agree to LinkedIn\u2019s User Agreement Privacy Policy , and Cookie Policy Sign in to see who you already know at TechBridge Consulting Email or phone Password Show Forgot password? Sign in Sign in with Email New to LinkedIn? Join now By clicking Continue to join or sign in, you agree to LinkedIn\u2019s User Agreement Privacy Policy , and Cookie Policy LinkedIn LinkedIn is better on the app Don\u2019t have the app? Get it in the Microsoft Store. Open the app",
+    "title": "TechBridge Consulting | LinkedIn",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://prpowerhouse.com": {
+    "url": "https://prpowerhouse.com",
+    "content": "",
+    "title": "",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://conversionlab.io": {
+    "url": "https://conversionlab.io",
+    "content": "Redirecting to Signal Marketing... Redirecting You to Signal Marketing Please wait a moment while we take you to our main site... Redirecting in 1 second Click here if not redirected",
+    "title": "Redirecting to Signal Marketing...",
+    "success": true,
+    "method": "fallback"
+  },
+  "https://hrcatalyst.co": {
+    "url": "https://hrcatalyst.co",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='hrcatalyst.co', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f21408f6140>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+  },
+  "https://cloudpath.solutions": {
+    "url": "https://cloudpath.solutions",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='cloudpath.solutions', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f21408f6170>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+  },
+  "https://eventalchemy.com": {
+    "url": "https://eventalchemy.com",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='eventalchemy.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1007)')))"
+  },
+  "https://productwise.io": {
+    "url": "https://productwise.io",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='productwise.io', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f21408f5150>: Failed to establish a new connection: [Errno -2] Name or service not known'))"
+  },
+  "https://socialimpact.agency": {
+    "url": "https://socialimpact.agency",
+    "content": "",
+    "success": false,
+    "error": "HTTPSConnectionPool(host='socialimpact.agency', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f21408f5330>, 'Connection to socialimpact.agency timed out. (connect timeout=15)'))"
+  }
+}

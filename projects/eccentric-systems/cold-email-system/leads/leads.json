@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Sarah Chen",
+    "email": "sarah@brightpathdigital.com",
+    "role": "Founder",
+    "company": "BrightPath Digital",
+    "website": "brightpathdigital.com",
+    "description": "Digital marketing agency specializing in SEO and content marketing for B2B SaaS companies",
+    "tags": []
+  },
+  {
+    "name": "Marcus Johnson",
+    "email": "marcus@revenueboost.io",
+    "role": "CEO",
+    "company": "RevenueBoost",
+    "website": "revenueboost.io",
+    "description": "Sales consulting firm helping startups build outbound sales processes",
+    "tags": []
+  },
+  {
+    "name": "Elena Rodriguez",
+    "email": "elena@creativepulse.co",
+    "role": "Creative Director",
+    "company": "Creative Pulse Agency",
+    "website": "creativepulse.co",
+    "description": "Full-service creative agency doing branding and web design for tech startups",
+    "tags": []
+  },
+  {
+    "name": "David Kim",
+    "email": "david@growthengine.co",
+    "role": "Founder",
+    "company": "Growth Engine",
+    "website": "growthengine.co",
+    "description": "Growth marketing consultancy focused on paid acquisition and conversion optimization",
+    "tags": []
+  },
+  {
+    "name": "Rachel Thompson",
+    "email": "rachel@clearviewconsulting.com",
+    "role": "Managing Partner",
+    "company": "Clearview Consulting",
+    "website": "clearviewconsulting.com",
+    "description": "Business strategy consulting for mid-market companies",
+    "tags": []
+  },
+  {
+    "name": "James Wilson",
+    "email": "james@sparkdigital.io",
+    "role": "CEO",
+    "company": "Spark Digital",
+    "website": "sparkdigital.io",
+    "description": "Web development and digital transformation agency",
+    "tags": []
+  },
+  {
+    "name": "Amanda Foster",
+    "email": "amanda@peakrecruitment.co",
+    "role": "Founder",
+    "company": "Peak Recruitment",
+    "website": "peakrecruitment.co",
+    "description": "Boutique recruiting firm specializing in tech and startup hiring",
+    "tags": []
+  },
+  {
+    "name": "Michael Chang",
+    "email": "michael@datadriven.agency",
+    "role": "Director",
+    "company": "DataDriven Agency",
+    "website": "datadriven.agency",
+    "description": "Analytics and data visualization consulting for e-commerce brands",
+    "tags": []
+  },
+  {
+    "name": "Lisa Park",
+    "email": "lisa@contentcraft.io",
+    "role": "Head of Strategy",
+    "company": "ContentCraft",
+    "website": "contentcraft.io",
+    "description": "Content marketing agency producing blogs podcasts and video for B2B brands",
+    "tags": []
+  },
+  {
+    "name": "Tom Bradley",
+    "email": "tom@scaleupadvisors.com",
+    "role": "Partner",
+    "company": "ScaleUp Advisors",
+    "website": "scaleupadvisors.com",
+    "description": "Fractional CFO and financial consulting for growing startups",
+    "tags": []
+  },
+  {
+    "name": "Nina Patel",
+    "email": "nina@brandstory.co",
+    "role": "Founder",
+    "company": "Brand Story Co",
+    "website": "brandstory.co",
+    "description": "Brand strategy and storytelling agency for consumer brands",
+    "tags": []
+  },
+  {
+    "name": "Chris Martinez",
+    "email": "chris@leadgenexperts.io",
+    "role": "CEO",
+    "company": "LeadGen Experts",
+    "website": "leadgenexperts.io",
+    "description": "B2B lead generation and appointment setting services",
+    "tags": []
+  },
+  {
+    "name": "Jessica Wu",
+    "email": "jessica@socialimpact.agency",
+    "role": "Director",
+    "company": "Social Impact Agency",
+    "website": "socialimpact.agency",
+    "description": "Social media marketing and influencer partnerships",
+    "tags": []
+  },
+  {
+    "name": "Ryan O'Connor",
+    "email": "ryan@techbridge.consulting",
+    "role": "Principal",
+    "company": "TechBridge Consulting",
+    "website": "techbridge.consulting",
+    "description": "IT consulting and software implementation for SMBs",
+    "tags": []
+  },
+  {
+    "name": "Samantha Lee",
+    "email": "samantha@prpowerhouse.com",
+    "role": "Founder",
+    "company": "PR Powerhouse",
+    "website": "prpowerhouse.com",
+    "description": "Public relations and media outreach for tech companies",
+    "tags": []
+  },
+  {
+    "name": "Alex Turner",
+    "email": "alex@conversionlab.io",
+    "role": "CRO Specialist",
+    "company": "Conversion Lab",
+    "website": "conversionlab.io",
+    "description": "Conversion rate optimization and A/B testing consultancy",
+    "tags": []
+  },
+  {
+    "name": "Maria Garcia",
+    "email": "maria@hrcatalyst.co",
+    "role": "CEO",
+    "company": "HR Catalyst",
+    "website": "hrcatalyst.co",
+    "description": "HR consulting and people operations for scaling companies",
+    "tags": []
+  },
+  {
+    "name": "Kevin Brown",
+    "email": "kevin@cloudpath.solutions",
+    "role": "Founder",
+    "company": "CloudPath Solutions",
+    "website": "cloudpath.solutions",
+    "description": "Cloud migration and DevOps consulting",
+    "tags": []
+  },
+  {
+    "name": "Stephanie Adams",
+    "email": "stephanie@eventalchemy.com",
+    "role": "Owner",
+    "company": "Event Alchemy",
+    "website": "eventalchemy.com",
+    "description": "Corporate event planning and virtual event production",
+    "tags": []
+  },
+  {
+    "name": "Daniel Lee",
+    "email": "daniel@productwise.io",
+    "role": "Head of Product",
+    "company": "ProductWise Consulting",
+    "website": "productwise.io",
+    "description": "Product management consulting and coaching",
+    "tags": []
+  }
+]

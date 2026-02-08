@@ -1,0 +1,20 @@
+{
+  "name": "kgl-pitch-video",
+  "version": "1.0.0",
+  "description": "KGL Realty Pro pitch video",
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "build": "remotion render src/index.ts KGLPitch out/kgl-pitch.mp4",
+    "preview": "remotion preview src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.419",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.419"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0"
+  }
+}
