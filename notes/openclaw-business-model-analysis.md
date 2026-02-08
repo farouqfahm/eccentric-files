@@ -56,39 +56,38 @@ This is literally our value proposition.
 
 ## Best Target Verticals (For Eccentric Systems)
 
-### 1. Law Firms ⭐ TOP PICK
-**Why they're perfect:**
-- **Compliance requirement:** Client data cannot touch third-party servers
-- OpenClaw + local models = data never leaves their building
-- High hourly rates = massive ROI math
-- "Boring" industry = less competition, higher willingness to pay
+### Target Profile: Service-Based SMBs ($2M+/year revenue)
+
+**Who we're targeting:**
+- Consultancies (management, HR, IT, marketing)
+- Professional services firms
+- Agencies (creative, digital, recruiting)
+- B2B service providers
+- Training & coaching businesses
+
+**Why $2M+ SMBs are perfect:**
+- Big enough to have real admin overhead and budget
+- Small enough that they can't hire dedicated ops teams
+- Service-based = high labor costs, lots of repetitive communication
+- Owner-operators who feel the pain directly
+- Decision-makers are accessible (not buried in corporate hierarchy)
 
 **Pain points to solve:**
-- Email triage (sort by urgency/matter)
-- Document review (flag clauses, summarize contracts)
-- Calendar prep (case briefs before meetings)
-- Invoice processing (match billable hours to matters)
+- Client communication management (emails, follow-ups, scheduling)
+- Proposal and document generation
+- CRM updates and lead tracking
+- Calendar coordination across team members
+- Invoice and billing admin
+- Onboarding new clients (repetitive intake processes)
 
 **Math close example:**
-> "4 paralegals × 6 hrs/day on admin × $35/hr = $218,400/year on copy-paste work.
-> We drop that to $40K. You save $178,000 annually."
+> "Your team of 5 spends ~15 combined hours/week on client admin — scheduling, follow-ups, CRM updates. At $50/hr loaded cost, that's $39,000/year on coordination work. We implement OpenClaw and cut that to 3 hours/week. You save $31,200 annually and your team focuses on billable work."
 
-### 2. Private Equity Firms
-- Document-heavy due diligence
-- Portfolio company monitoring
-- Deal flow management
-- High budget, low patience for DIY
-
-### 3. Accounting Firms
-- Seasonal crunch = desperate for efficiency
-- Document processing at scale
-- Client communication management
-- Recurring annual engagement opportunity
-
-### 4. Healthcare Operations
-- HIPAA compliance = same local-first advantage
-- Scheduling, patient communication, documentation
-- High admin overhead
+### Secondary Targets
+- **Marketing/Creative Agencies** — High volume client comms, project coordination
+- **IT Consultancies** — Ticket triage, client updates, documentation
+- **Recruiting Firms** — Candidate communication, scheduling, pipeline management
+- **Training Companies** — Enrollment, scheduling, content delivery coordination
 
 ---
 
